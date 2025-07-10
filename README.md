@@ -53,8 +53,7 @@
 
 <div align="center">
 
-[![View Dashboard](https://img.shields.io/badge/📊%20Interactive%20Dashboard-View%20Now-success?style=for-the-badge)](./Customer%20Sentiment%20Analysis%20Dashboard.pdf)
-[![Technical Documentation](https://img.shields.io/badge/📚%20Technical%20Docs-Read%20More-blue?style=for-the-badge)](./Customer%20Sentiment%20analysis%20README.md)
+[![View Analysis](https://img.shields.io/badge/📊%20Interactive%20Dashboard-View%20Now-success?style=for-the-badge)](https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer%20Sentiment%20Analysis/README.md)
 
 </div>
 
@@ -85,8 +84,7 @@
 
 <div align="center">
 
-[![View Analysis](https://img.shields.io/badge/🔍%20Churn%20Analysis-Explore-warning?style=for-the-badge)](./Customer%20Churn%20Analysis%20README.md)
-[![Dashboard Preview](https://img.shields.io/badge/📊%20Dashboard%20Preview-View-orange?style=for-the-badge)](./Customer-Churn/Customer%20Churn%20Analysis.png)
+[![View Analysis](https://img.shields.io/badge/🔍%20Churn%20Analysis-Explore-warning?style=for-the-badge)](https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer-Churn/README.md)
 
 </div>
 
@@ -117,7 +115,7 @@
 
 <div align="center">
 
-[![View Segmentation](https://img.shields.io/badge/🧠%20ML%20Segmentation-Analyze-purple?style=for-the-badge)](./Customer%20Segmentation%20README.md)
+[![View Segmentation](https://img.shields.io/badge/🧠%20ML%20Segmentation-Analyze-purple?style=for-the-badge)](https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer-Segmentation/README.md)
 [![Python Code](https://img.shields.io/badge/🐍%20Python%20Code-View%20Implementation-green?style=for-the-badge)](#)
 
 </div>
