@@ -230,7 +230,7 @@ graph TD
 *Predictive churn modeling with revenue impact analysis and targeted retention strategies*
 
 ### 🎯 **Customer Segmentation Matrix**
-<img src="./assets/customer-segmentation-preview.png" alt="Segmentation Analysis" width="80%"/>
+<img src="https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer-Segmentation/Presentation%20-%20Customer%20Segmentation%20Using%20RFM%20Analysis.pdf" alt="Segmentation Analysis" width="80%"/>
 
 *ML-powered customer personas with RFM analysis and behavioral clustering*
 
