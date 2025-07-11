@@ -1,4 +1,4 @@
-# 🚀 Real World and Industry Level Data Analysis Projects
+# 🚀 Data Analysis Portfolio Projects
 ## *Transforming Raw Data into Strategic Business Intelligence*
 
 <div align="center">
@@ -54,7 +54,8 @@
 <div align="center">
 
 [![View Analysis](https://img.shields.io/badge/📊%20Interactive%20Dashboard-View%20Now-success?style=for-the-badge)](https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer%20Sentiment%20Analysis/README.md)
-
+![View Dashboard](https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer%20Sentiment%20Analysis/Customer%20Sentiment.png)
+*Real-time social media sentiment tracking with geographic intelligence and platform performance analytics*
 </div>
 
 **Business Challenge:** Monitor brand sentiment across multiple social platforms to enable proactive reputation management and customer engagement strategies.
@@ -85,6 +86,8 @@
 <div align="center">
 
 [![View Analysis](https://img.shields.io/badge/🔍%20Churn%20Analysis-Explore-warning?style=for-the-badge)](https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer-Churn/README.md)
+![View Dashboard](https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer-Churn/Customer%20Churn%20Analysis.png)
+*Predictive churn modeling with revenue impact analysis and targeted retention strategies*
 
 </div>
 
@@ -116,7 +119,9 @@
 <div align="center">
 
 [![View Segmentation](https://img.shields.io/badge/🧠%20ML%20Segmentation-Analyze-purple?style=for-the-badge)](https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer-Segmentation/README.md)
-[![Python Code](https://img.shields.io/badge/🐍%20Python%20Code-View%20Implementation-green?style=for-the-badge)](#)
+[![Python Code](https://img.shields.io/badge/🐍%20Python%20Code-View%20Implementation-green?style=for-the-badge)](https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer-Segmentation/customer%20segmentation.ipynb)
+
+*ML-powered customer personas with RFM analysis and behavioral clustering*
 
 </div>
 
@@ -209,29 +214,6 @@ graph TD
 - **💡 Innovation Catalyst:** ML-powered insights driving product development roadmap
 
 ---
-</div>
-
----
-
-## 📊 Portfolio Showcase Gallery
-
-<div align="center">
-
-### 🎭 **Sentiment Analysis Dashboard**
-<img src="https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer%20Sentiment%20Analysis/Customer%20Sentiment.png" alt="Sentiment Dashboard" width="80%"/>
-
-*Real-time social media sentiment tracking with geographic intelligence and platform performance analytics*
-
-### 📉 **Customer Churn Intelligence**
-<img src="https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer-Churn/Customer%20Churn%20Analysis.png" alt="Churn Dashboard" width="80%"/>
-
-*Predictive churn modeling with revenue impact analysis and targeted retention strategies*
-
-### 🎯 **Customer Segmentation Matrix**
-<img src="https://github.com/Nishantksh277/Data-Analysis-Projects/blob/main/Customer-Segmentation/Presentation%20-%20Customer%20Segmentation%20Using%20RFM%20Analysis.pdf" alt="Segmentation Analysis" width="80%"/>
-
-*ML-powered customer personas with RFM analysis and behavioral clustering*
-
 </div>
 
 ---
