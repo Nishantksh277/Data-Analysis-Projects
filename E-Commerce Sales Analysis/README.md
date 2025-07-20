@@ -58,7 +58,7 @@ Using MySQL queries:
 - **Top Performing Categories** contributed over 60% of total sales.
 - **Non-Amazon channels** had significantly lower contribution compared to **Amazon.in**.
 - **March to June** showed seasonal sales trends with visible growth peaks.
-- **Category “Kurta”** stood out as one of the highest selling products.
+- **Category “Set”** stood out as one of the highest selling products.
 - **Moving Average & Growth %** helped highlight strong and weak months.
 - **City-level analysis** allowed identification of high-demand regions.
 
