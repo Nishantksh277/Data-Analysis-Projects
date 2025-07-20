@@ -13,7 +13,7 @@
 **🎯 Delivering Data-Driven Solutions That Generate Measurable Business Impact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nishantsharma277)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:Nishantksh.277@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:Nish.sh27@gmail.com)
 
 </div>
 
